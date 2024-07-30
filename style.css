@@ -1,0 +1,27 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+header{
+    background-color: #FFF3C7;
+}
+header span{
+    color: #F7418F;
+}
+.nav-item a{
+    color: #F7418F;
+}
+#nav-button{
+    background-color: #F7418F;
+}
+.nav-item a:hover{
+    color: #F7418F
+}
+.nav-item a:visited{
+    color: #F7418F;
+}
+body{
+    background-color: #FEC7B4;
+}
+.classh1{
+    color: #F7418F;
+}
