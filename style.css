@@ -2,26 +2,39 @@
     font-family: "Raleway", sans-serif;
 }
 header{
-    background-color: #FFF3C7;
+    background-color: #F1F8E8;
 }
 header span{
-    color: #F7418F;
+    color: #55AD9B;
 }
 .nav-item a{
-    color: #F7418F;
+    color: #55AD9B;
 }
 #nav-button{
-    background-color: #F7418F;
+    background-color: #55AD9B;
 }
 .nav-item a:hover{
-    color: #F7418F
+    color: #55AD9B
 }
 .nav-item a:visited{
-    color: #F7418F;
+    color: #55AD9B;
 }
 body{
-    background-color: #FEC7B4;
+    background-color: #95D2B3;
 }
 .classh1{
-    color: #F7418F;
+    color: #55AD9B;
+}
+#habilidades{
+    background-color: #F1F8E8;
+}
+#testimonios{
+    background-color: #F1F8E8;
+}
+#redes{
+    background-color: #F1F8E8;
+}
+#frase{
+    font-style: oblique;
+    color: #F1F8E8;
 }
